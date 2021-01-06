@@ -1,0 +1,14 @@
+{
+  "plans": [
+    {
+      "id": 1,
+      "name": "Free",
+      "price": 0
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "price": 9.9
+    }
+  ]
+}
